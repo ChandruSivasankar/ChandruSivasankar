@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ChandruSivasankar
+- 👋 Hi, I’m Chandru Sivasankar
 - 👀 I’m interested in Cloud, Solution Architecture and coding 
 - 🌱 I’m currently learning fullstack developer and AWS
 - 💞️ I’m looking to collaborate on Fullstack development 
