@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Chandru Sivasankar
-- 👀 I’m interested in Cloud, Solution Architecture and coding 
-- 🌱 I’m currently learning fullstack developer and AWS
-- 💞️ I’m looking to collaborate on Fullstack development 
+- 👀 I’m interested in Cloud, Solution Architecture and AI 
+- 💞️ I’m looking to collaborate on AWS and Cloud solutions
 
 
 <!---
