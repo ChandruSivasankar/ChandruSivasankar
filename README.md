@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chandru Sivasankar
-- 👀 I’m interested in Cloud, Solution Architecture and AI 
-- 💞️ I’m looking to collaborate on AWS and Cloud solutions
+- 👀 Automation and AI Solution Architecture
+- 💞️ I’m looking to collaborate on AWS and Azure Cloud solutions
 
 
 <!---
